@@ -1,5 +1,5 @@
 <?php
 
-echo "home page...."
+echo "home page.... Modifications...."
 
 ?>
